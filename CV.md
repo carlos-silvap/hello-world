@@ -43,3 +43,9 @@ Skills:
     - Volunteer of this student group in charge of assigning foreigners to mexican students to publicize the customs and traditions of the culture
 * SaISD (2018-2019)
     - Member of the board of directors of the society of students in the Robotics BS
+
+>LANGUAGES
+
+* Spanish - Native
+* English - Fluent
+* German - Intermediate
