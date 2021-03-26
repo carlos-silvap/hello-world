@@ -15,6 +15,8 @@ Skills
 * Windows, Mac and Linux
 * WordPress certification
 * Google IT Support Specialization Certificate
-* Programming languages (C, Python, HTML, Java, VHDL, AndroidStudio, C++ )
+* Programming languages (C, Python, HTML, CSS, Unix/Bash, Java, Matlab, Assembly, VHDL, AndroidStudio, C++ )
 * Cisco (Certification- CCNA 1 and CCNA 2)
 * Robot Operating System (ROS) and Gazebo
+* Image processing (C, Javascript-Sherlock, Python-OpenCV)
+* Github
