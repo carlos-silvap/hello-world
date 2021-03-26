@@ -34,3 +34,12 @@ Skills:
         - ROS, Gazebo and Python
 * TECNOLÓGICO DE MONTERREY
     - Soporte técnico TI (2018-2019)
+
+>LEADERSHIP ACTIVITIES
+
+* Orphanage "Villa Infantil Sonríe"
+    - I supported children ages 7-14 with school activities, projects, and homework.
+* Ami "Big Brother" (2018- Current)
+    - Volunteer of this student group in charge of assigning foreigners to mexican students to publicize the customs and traditions of the culture
+* SaISD (2018-2019)
+    - Member of the board of directors of the society of students in the Robotics BS
